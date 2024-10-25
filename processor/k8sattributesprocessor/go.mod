@@ -20,6 +20,7 @@ require (
 	go.opentelemetry.io/collector/consumer/consumertest v0.112.0
 	go.opentelemetry.io/collector/featuregate v1.18.0
 	go.opentelemetry.io/collector/pdata v1.18.0
+	go.opentelemetry.io/collector/pdata/pprofile v0.112.0
 	go.opentelemetry.io/collector/pipeline v0.112.0
 	go.opentelemetry.io/collector/processor v0.112.0
 	go.opentelemetry.io/collector/processor/processorprofiles v0.112.0
@@ -98,7 +99,6 @@ require (
 	go.opentelemetry.io/collector/consumer/consumererror v0.112.0 // indirect
 	go.opentelemetry.io/collector/extension v0.112.0 // indirect
 	go.opentelemetry.io/collector/extension/auth v0.112.0 // indirect
-	go.opentelemetry.io/collector/pdata/pprofile v0.112.0 // indirect
 	go.opentelemetry.io/collector/pdata/testdata v0.112.0 // indirect
 	go.opentelemetry.io/collector/receiver/receiverprofiles v0.112.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0 // indirect
